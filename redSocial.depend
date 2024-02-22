@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1708567511 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"menu.h"
+	"LinkedList.h"
+	"validaciones.h"
+	"controller.h"
+
+1708561230 c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\usuario.h
+
+1708565375 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+
+1708536222 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1708547376 c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\linkedlist.h
+
+1708562947 c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\menu.h
+
+1708537672 c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\validaciones.h
+
+1708562945 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"validaciones.h"
+
+1708537672 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1708567520 source:c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"usuario.h"
+	"LinkedList.h"
+	"validaciones.h"
+	"controller.h"
+
+1708567570 c:\users\avall\onedrive\escritorio\practicaparcial\redsocial\controller.h
+
